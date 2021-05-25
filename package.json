@@ -17,7 +17,7 @@
     "buffer-crc32": "^0.2",
     "bytebuffer": "^5.0",
     "steam-crypto": "^0.0",
-    "steam-resources": "github:caspergreen/node-steam-resources#377cd1100a5dfba8fb4d651477c79963963e8058"
+    "steam-resources": "github:caspergreen/node-steam-resources#9b0463d59c0ad2f88457d67c105b14365784d189"
   },
   "bundledDependencies": [
     "steam-resources"
